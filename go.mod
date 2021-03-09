@@ -1,3 +1,3 @@
-module github.com/javohir1649/udemyProject
+module github.com/Javohir1649/udemyProject
 
 go 1.15

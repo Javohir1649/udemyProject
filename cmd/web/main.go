@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"udemyProject/pkg/handlers"
+
+	"github.com/Javohir1649/udemyProject/pkg/handlers"
 )
 
 const portNumber = ":8080"

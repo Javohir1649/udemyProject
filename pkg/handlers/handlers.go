@@ -2,7 +2,8 @@ package handlers
 
 import (
 	"net/http"
-	"udemyProject/pkg/render"
+
+	"github.com/Javohir1649/udemyProject/pkg/render"
 )
 
 // Homepage resresents / page
